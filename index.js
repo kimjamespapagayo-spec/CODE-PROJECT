@@ -1,5 +1,5 @@
 
-var name = "Kim";
+var name = "Kim James Papagayo";
 
 let age = "22";
 
@@ -10,7 +10,7 @@ console.log("Is student:", isStudent);
 
 
 let person = {
-  name: "Kim",
+  name: "Kim James Papagayo",
   age: age,
   address: {
     street: "179 - A San Gabriel St",
@@ -53,3 +53,5 @@ for (let num of numbers) {
 }
 
 console.log(`Found ${evenAndAbove20.length} numbers: [${evenAndAbove20.join(", ")}]`);
+
+
